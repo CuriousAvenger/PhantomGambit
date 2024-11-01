@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Motherboard.kicad_prl",
+    "filename": "motherboard.kicad_prl",
     "version": 3
   },
   "project": {
