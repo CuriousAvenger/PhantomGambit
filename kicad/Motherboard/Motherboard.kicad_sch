@@ -6066,7 +6066,13 @@
 		(at 77.47 180.34)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "662005a6-539c-4d47-afda-3fe2ed78be2d")
+		(uuid "683bb88e-278e-4338-bdd1-657a477fe6b0")
+	)
+	(junction
+		(at 77.47 187.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b81f29d-f8d6-4187-ac48-340100a36f1b")
 	)
 	(junction
 		(at 241.3 24.13)
@@ -6127,12 +6133,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "af1d1cc3-312c-44c0-9076-f70044b8e2dd")
-	)
-	(junction
-		(at 77.47 187.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "be0d7815-1b51-4007-8729-d6b923309c34")
 	)
 	(junction
 		(at 115.57 142.24)
@@ -6325,16 +6325,6 @@
 			(type default)
 		)
 		(uuid "010dc27d-7d37-4ce2-851c-0ba93460772f")
-	)
-	(wire
-		(pts
-			(xy 228.6 123.19) (xy 226.06 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0201a688-5917-4647-bfdb-1961d09d9c6d")
 	)
 	(wire
 		(pts
@@ -6728,16 +6718,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 187.96) (xy 93.98 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "611914bb-2d5b-4780-b8fd-336c5bd6a7a2")
-	)
-	(wire
-		(pts
 			(xy 144.78 176.53) (xy 142.24 176.53)
 		)
 		(stroke
@@ -6875,6 +6855,16 @@
 			(type default)
 		)
 		(uuid "85378a43-792d-4478-a3ef-3f04bee3cf22")
+	)
+	(wire
+		(pts
+			(xy 77.47 187.96) (xy 93.98 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8588b3fd-caf0-45d2-9ddc-9f408bb0b6c1")
 	)
 	(wire
 		(pts
@@ -7018,16 +7008,6 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 180.34) (xy 82.55 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a3782c0b-31a5-49bf-9e04-7f5399017f27")
-	)
-	(wire
-		(pts
 			(xy 60.96 187.96) (xy 77.47 187.96)
 		)
 		(stroke
@@ -7035,6 +7015,16 @@
 			(type default)
 		)
 		(uuid "a49d5271-36c3-4b39-a1a3-1b37b8069361")
+	)
+	(wire
+		(pts
+			(xy 77.47 180.34) (xy 82.55 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a741c7b0-60b4-44ad-bb7a-e7e66672c957")
 	)
 	(wire
 		(pts
@@ -8811,7 +8801,7 @@
 		(dnp no)
 		(uuid "03de6fe2-f09a-47ff-9bd5-dd0d6e499893")
 		(property "Reference" "J2"
-			(at 179.324 57.15 90)
+			(at 178.816 59.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8919,8 +8909,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "06d95f90-8b65-4d06-8003-1de75cb0901f")
-		(property "Reference" "J1"
-			(at 137.16 56.388 90)
+		(property "Reference" "J8"
+			(at 136.906 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9013,7 +9003,7 @@
 		(instances
 			(project ""
 				(path "/6e7606c8-26d5-4d26-b509-210c4758a44d"
-					(reference "J1")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -9156,7 +9146,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 123.19 180.34 180)
+		(at 123.19 180.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9164,7 +9154,7 @@
 		(dnp no)
 		(uuid "156f960a-f189-4a5f-8de9-886f8c04e235")
 		(property "Reference" "D2"
-			(at 128.27 181.61 90)
+			(at 118.11 179.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9173,7 +9163,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 119.38 183.134 0)
+			(at 126.492 183.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9632,7 +9622,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 229.5652 31.75 0)
 			(effects
 				(font
@@ -9981,7 +9971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 138.43 189.992 90)
 			(effects
 				(font
@@ -10427,7 +10417,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 192.7352 27.94 0)
 			(effects
 				(font
@@ -10562,7 +10552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 261.62 21.2852 0)
 			(effects
 				(font
@@ -10836,7 +10826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 37.7952 185.42 0)
 			(effects
 				(font
@@ -11178,7 +11168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 94.9452 187.96 0)
 			(effects
 				(font
@@ -11632,7 +11622,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 136.398 187.96 90)
 			(effects
 				(font
@@ -11700,7 +11690,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 265.43 35.56 0)
 			(effects
 				(font
@@ -12255,7 +12245,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 187.6552 147.32 0)
 			(effects
 				(font
@@ -12367,7 +12357,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 226.06 123.19 0)
+		(at 228.6 123.19 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12375,7 +12365,7 @@
 		(dnp no)
 		(uuid "81da46f2-5d95-4ad5-80f4-150380ced8ee")
 		(property "Reference" "#PWR07"
-			(at 226.06 129.54 0)
+			(at 228.6 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12384,7 +12374,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 229.362 122.936 0)
+			(at 231.902 122.936 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12392,7 +12382,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 123.19 0)
+			(at 228.6 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12401,7 +12391,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 226.06 123.19 0)
+			(at 228.6 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12410,7 +12400,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 226.06 123.19 0)
+			(at 228.6 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12669,7 +12659,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 255.778 158.75 90)
 			(effects
 				(font
@@ -13083,7 +13073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 207.01 31.242 90)
 			(effects
 				(font
@@ -13193,7 +13183,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 77.47 184.15 90)
+		(at 77.47 184.15 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13201,7 +13191,7 @@
 		(dnp no)
 		(uuid "a19aad5c-b324-4713-a4f8-8739b4939d9e")
 		(property "Reference" "D1"
-			(at 74.422 181.356 90)
+			(at 80.518 186.944 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13210,7 +13200,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 80.264 180.086 0)
+			(at 74.676 188.214 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13823,7 +13813,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 205.74 24.13 0)
 			(effects
 				(font
@@ -13966,7 +13956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 242.2652 31.75 0)
 			(effects
 				(font
@@ -14102,7 +14092,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 259.842 158.75 90)
 			(effects
 				(font
@@ -14577,7 +14567,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 220.6752 147.32 0)
 			(effects
 				(font
@@ -15050,7 +15040,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK"
 			(at 251.46 140.97 0)
 			(effects
 				(font
