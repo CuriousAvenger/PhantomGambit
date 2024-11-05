@@ -6231,6 +6231,12 @@
 		(uuid "22d61ec6-bb2a-436d-a8ae-f2cc38ab9737")
 	)
 	(junction
+		(at 30.48 176.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29f4e66a-669b-4c4b-ab20-e0c098f64ce0")
+	)
+	(junction
 		(at 81.28 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6403,12 +6409,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2a1fdc7-87e3-48ff-8187-fb4964b386c6")
-	)
-	(junction
-		(at 34.29 176.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b3e1d5fc-11c8-4d1b-8537-681218c46a83")
 	)
 	(junction
 		(at 87.63 148.59)
@@ -6642,16 +6642,6 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 176.53) (xy 35.56 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "078d07ec-2592-4a76-b9c2-1e9936ef0099")
-	)
-	(wire
-		(pts
 			(xy 92.71 177.8) (xy 96.52 177.8)
 		)
 		(stroke
@@ -6762,7 +6752,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 176.53) (xy 34.29 176.53)
+			(xy 29.21 176.53) (xy 30.48 176.53)
 		)
 		(stroke
 			(width 0)
@@ -7209,6 +7199,16 @@
 			(type default)
 		)
 		(uuid "70ca6f49-873e-4ef5-a58e-d404127b6c98")
+	)
+	(wire
+		(pts
+			(xy 30.48 176.53) (xy 35.56 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "726d76f3-549d-4247-90d0-1891f263704f")
 	)
 	(wire
 		(pts
@@ -9958,10 +9958,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "06aaf2cf-296f-4f1d-9037-c4527a12af56")
 		(property "Reference" "TP2"
-			(at 118.11 173.2279 0)
+			(at 113.792 172.466 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9970,7 +9969,7 @@
 			)
 		)
 		(property "Value" "12VConverter_TestPoint"
-			(at 118.11 175.7679 0)
+			(at 100.33 170.434 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10341,7 +10340,7 @@
 		(dnp no)
 		(uuid "156f960a-f189-4a5f-8de9-886f8c04e235")
 		(property "Reference" "D2"
-			(at 137.16 176.53 90)
+			(at 143.256 175.514 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10350,7 +10349,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 145.542 180.848 0)
+			(at 147.066 174.498 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11444,10 +11443,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2e518176-19ec-4d2d-a892-c9aefff12e5b")
 		(property "Reference" "TP3"
-			(at 138.43 176.0219 0)
+			(at 134.112 179.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11456,7 +11454,7 @@
 			)
 		)
 		(property "Value" "BeforeEM_TestPoint"
-			(at 138.43 178.5619 0)
+			(at 126.492 181.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12783,7 +12781,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5db0da51-014e-4d15-bba6-76de22038c93")
 		(property "Reference" "#PWR034"
 			(at 35.56 180.34 0)
@@ -12795,7 +12792,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 35.56 171.45 0)
+			(at 38.862 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12849,7 +12846,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5fc13ad3-d95f-4f92-b390-e2ba82a6eccf")
 		(property "Reference" "#FLG02"
 			(at 118.11 175.895 0)
@@ -12861,7 +12857,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 118.11 172.72 0)
+			(at 123.952 174.752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14500,7 +14496,7 @@
 			)
 		)
 		(property "Value" "DMN3404L"
-			(at 163.576 170.18 90)
+			(at 157.734 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14849,7 +14845,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 53.34 138.43 90)
+			(at 57.15 135.382 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15119,7 +15115,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 127 138.43 90)
+			(at 130.81 135.382 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15378,10 +15374,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bbca0760-b0a6-4d7b-84b3-54d9cc79dd1b")
 		(property "Reference" "TP4"
-			(at 163.83 169.4179 0)
+			(at 159.512 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15390,7 +15385,7 @@
 			)
 		)
 		(property "Value" "AfterEM_TestPoint"
-			(at 163.83 171.9579 0)
+			(at 152.654 166.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15851,10 +15846,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c98f5316-e719-4a5a-8257-4b9da61dca2a")
 		(property "Reference" "TP6"
-			(at 132.08 142.7479 0)
+			(at 124.46 144.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15863,7 +15857,7 @@
 			)
 		)
 		(property "Value" "TMC_Input1_TestPoint"
-			(at 132.08 145.2879 0)
+			(at 119.38 141.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16258,10 +16252,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d45147db-8426-438d-a9f3-32539fde21c8")
 		(property "Reference" "TP5"
-			(at 220.98 137.1599 90)
+			(at 220.218 138.684 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16270,7 +16263,7 @@
 			)
 		)
 		(property "Value" "3.3VConverter_TestPoint"
-			(at 220.98 139.6999 90)
+			(at 204.216 148.336 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16391,10 +16384,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "df874386-8a02-423d-a1c6-c7ca1cce5623")
 		(property "Reference" "J9"
-			(at 24.765 171.45 0)
+			(at 24.13 174.498 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16402,7 +16394,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 24.765 173.99 0)
+			(at 24.13 180.594 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16459,10 +16451,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e2be4ea6-61e4-4604-9ca7-8433c86b4672")
 		(property "Reference" "TP7"
-			(at 57.15 144.0179 0)
+			(at 49.53 145.542 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16471,7 +16462,7 @@
 			)
 		)
 		(property "Value" "TMC_Input2_TestPoint"
-			(at 57.15 146.5579 0)
+			(at 44.196 143.002 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16797,16 +16788,15 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 34.29 176.53 0)
+		(at 30.48 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e630ecdf-9199-4179-908d-e20a0b3544cc")
 		(property "Reference" "TP1"
-			(at 36.83 171.9579 0)
+			(at 28.448 171.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16815,7 +16805,7 @@
 			)
 		)
 		(property "Value" "PowerSupply_TestPoint"
-			(at 36.83 174.4979 0)
+			(at 19.558 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16824,7 +16814,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
-			(at 39.37 176.53 0)
+			(at 35.56 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16833,7 +16823,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 39.37 176.53 0)
+			(at 35.56 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16842,7 +16832,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 34.29 176.53 0)
+			(at 30.48 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
