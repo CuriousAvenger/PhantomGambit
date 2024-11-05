@@ -4,7 +4,9 @@ The Phantom Gambit is a smart chessboard that can move pieces on its own, lettin
 # Fixes:
 - Change horizontal pin headers to vertical
 - Space out the PCB even more (try making it optimal)
-- Add lipo battery connector to schematic
+- Add lipo battery connector to schematic and BOM
+- Add pin headers to BOM (check footprints)
+- Choose lip battery (stable 12V at 2000mA)
 
 # BOM
 https://docs.google.com/spreadsheets/d/1c5iFp7m9ee2j3huvuUchwQKQikQjN13B6d_CP39HWaw/edit?usp=sharing
