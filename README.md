@@ -9,3 +9,7 @@ The Phantom Gambit is a smart chessboard that can move pieces on its own, lettin
 
 # BOM
 https://docs.google.com/spreadsheets/d/1c5iFp7m9ee2j3huvuUchwQKQikQjN13B6d_CP39HWaw/edit?usp=sharing
+
+
+![image](https://github.com/user-attachments/assets/a3fd3b60-48d4-494e-8dab-7763c4d75c1d)
+![image](https://github.com/user-attachments/assets/e502e254-43b4-482e-9ecf-e9fbe3b13b0c)
