@@ -16993,9 +16993,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 35.822 73.107 0)
+		(at 35.752 77.437 0)
 		(layer "F.Fab")
-		(uuid "d9e156bf-5e30-4b33-9a04-c01e7d8a18ab")
+		(uuid "36f80dd4-23de-49f6-8997-2bd9cee801c0")
 		(effects
 			(font
 				(size 1 1)
@@ -17004,9 +17004,9 @@
 		)
 	)
 	(gr_text "${REFERENCE}"
-		(at 35.752 77.437 0)
+		(at 35.822 73.107 0)
 		(layer "F.Fab")
-		(uuid "de342d4d-756a-4373-b3a3-af5cc0d86ae7")
+		(uuid "77ba430c-16d5-4400-b9b7-b1e9e3f97106")
 		(effects
 			(font
 				(size 1 1)
