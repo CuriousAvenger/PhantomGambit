@@ -2,9 +2,7 @@
 The Phantom Gambit is a smart chessboard that can move pieces on its own, letting you play chess hands-free. Using hidden magnets and a tiny computer, it smoothly glides pieces across the board as if by magic. Whether you're playing against a friend or an AI, the board brings a unique, almost lifelike experience to the game—it's like having an invisible opponent right there with you.
 
 # Fixes:
-- Change horizontal pin headers to vertical
 - Space out the PCB even more (try making it optimal)
-- Add lipo battery connector to schematic and BOM
 - Add pin headers to BOM (check footprints)
 - Choose lip battery (stable 12V at 2000mA)
 
