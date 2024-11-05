@@ -1386,7 +1386,7 @@
 			(uuid "e031a3fa-942a-4379-bb08-ac4c55874d64")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.4 -4.27 0)
+			(at 14.511 10.749 0)
 			(layer "F.Fab")
 			(uuid "de342d4d-756a-4373-b3a3-af5cc0d86ae7")
 			(effects
@@ -3186,7 +3186,7 @@
 			(uuid "5b80ed6b-92d6-471b-bb29-068ad84fbdf0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 19.05 360)
+			(at 0 19.05 0)
 			(layer "F.Fab")
 			(uuid "b36266d5-6e80-4a36-91af-234bf341703f")
 			(effects
@@ -3607,7 +3607,7 @@
 			(uuid "8b251f27-9a19-477c-a67a-b5d96f942726")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 19.05 360)
+			(at 0 19.05 0)
 			(layer "F.Fab")
 			(uuid "afa706c6-aa74-44bf-a29d-fa018e3e640d")
 			(effects
@@ -6452,7 +6452,7 @@
 		(descr "SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U5"
-			(at 0 -8.65 360)
+			(at 0 -8.65 0)
 			(layer "F.SilkS")
 			(uuid "485b47be-88fd-4939-82e0-35c71ddc15ad")
 			(effects
@@ -6463,7 +6463,7 @@
 			)
 		)
 		(property "Value" "CD74HC4067M"
-			(at 0 8.65 360)
+			(at 0 8.65 0)
 			(layer "F.Fab")
 			(uuid "3285c3c9-1ccf-440b-80d5-1d70584a0cc5")
 			(effects
@@ -6474,7 +6474,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8677c73b-f41f-485b-8e89-70d77e33cebf")
@@ -6486,7 +6486,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4a5ddda1-41fa-48fc-9b5c-7dfb06188b83")
@@ -6498,7 +6498,7 @@
 			)
 		)
 		(property "Description" "High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d93fffb6-a934-42ef-be26-67c53f682c30")
@@ -6697,7 +6697,7 @@
 			(uuid "b8d63677-3eb4-443a-b40b-f27ff40609da")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "61f1864b-a8cf-4f6d-ba9c-ff6fb35b9cd6")
 			(effects
@@ -9313,7 +9313,7 @@
 			(uuid "c44b80d0-d5d4-49a5-a810-f09d17479d11")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 11.111 15.019 0)
 			(layer "F.Fab")
 			(uuid "d9e156bf-5e30-4b33-9a04-c01e7d8a18ab")
 			(effects
@@ -12631,7 +12631,7 @@
 		(descr "Through hole straight pin header, 1x16, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x16 2.54mm single row")
 		(property "Reference" "J2"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "23a0c210-7f4c-4c90-9a38-f5ec5246a79d")
 			(effects
@@ -12642,7 +12642,7 @@
 			)
 		)
 		(property "Value" "Conn_01x16_Pin"
-			(at 0 40.43 360)
+			(at 0 40.43 0)
 			(layer "F.Fab")
 			(uuid "c4590800-bdfe-4440-a84e-7fdb879077ed")
 			(effects
@@ -15278,7 +15278,7 @@
 		(descr "SOIC, 24 Pin (JEDEC MS-013AD, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/RW_24.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 		(tags "SOIC SO")
 		(property "Reference" "U6"
-			(at 0 -8.65 360)
+			(at 0 -8.65 0)
 			(layer "F.SilkS")
 			(uuid "182107d1-b1e3-4b90-b501-efb27a3eeaad")
 			(effects
@@ -15289,7 +15289,7 @@
 			)
 		)
 		(property "Value" "CD74HC4067M"
-			(at 0 8.65 360)
+			(at 0 8.65 0)
 			(layer "F.Fab")
 			(uuid "90a654b6-85cb-47c6-ac94-96dbd35c4e9d")
 			(effects
@@ -15300,7 +15300,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-24W_7.5x15.4mm_P1.27mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7775003a-cdce-48ce-83df-eca36deb2a21")
@@ -15312,7 +15312,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/cd74hc4067.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aecc4d14-0868-46f3-83b3-3ed5c14bf72c")
@@ -15324,7 +15324,7 @@
 			)
 		)
 		(property "Description" "High-Speed CMOS Logic 16-Channel Analog Multiplexer/Demultiplexer, SOIC-24"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fb7d80c8-990c-4d23-b1d8-050c52239fc4")
@@ -15523,7 +15523,7 @@
 			(uuid "fe0b0fd8-7c70-4857-befa-05932e69854a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "16192e11-b302-4e69-ac3b-293b8325e8eb")
 			(effects
@@ -16989,6 +16989,28 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 35.822 73.107 0)
+		(layer "F.Fab")
+		(uuid "d9e156bf-5e30-4b33-9a04-c01e7d8a18ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(gr_text "${REFERENCE}"
+		(at 35.752 77.437 0)
+		(layer "F.Fab")
+		(uuid "de342d4d-756a-4373-b3a3-af5cc0d86ae7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 		)
 	)
