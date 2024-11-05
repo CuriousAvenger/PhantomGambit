@@ -9969,7 +9969,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "12VConverter_TestPoint"
 			(at 118.11 175.7679 0)
 			(effects
 				(font
@@ -9978,7 +9978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 120.65 177.8 0)
 			(effects
 				(font
@@ -11455,7 +11455,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "BeforeEM_TestPoint"
 			(at 138.43 178.5619 0)
 			(effects
 				(font
@@ -11464,7 +11464,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 130.81 173.99 0)
 			(effects
 				(font
@@ -15389,7 +15389,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "AfterEM_TestPoint"
 			(at 163.83 171.9579 0)
 			(effects
 				(font
@@ -15398,7 +15398,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 166.37 173.99 0)
 			(effects
 				(font
@@ -15862,7 +15862,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "TMC_Input1_TestPoint"
 			(at 132.08 145.2879 0)
 			(effects
 				(font
@@ -15871,7 +15871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 134.62 147.32 0)
 			(effects
 				(font
@@ -16269,7 +16269,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "3.3VConverter_TestPoint"
 			(at 220.98 139.6999 90)
 			(effects
 				(font
@@ -16278,7 +16278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 215.9 143.51 0)
 			(effects
 				(font
@@ -16470,7 +16470,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "TMC_Input2_TestPoint"
 			(at 57.15 146.5579 0)
 			(effects
 				(font
@@ -16479,7 +16479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 59.69 148.59 0)
 			(effects
 				(font
@@ -16814,7 +16814,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
+		(property "Value" "PowerSupply_TestPoint"
 			(at 36.83 174.4979 0)
 			(effects
 				(font
@@ -16823,7 +16823,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_1.5x1.5mm"
 			(at 39.37 176.53 0)
 			(effects
 				(font
